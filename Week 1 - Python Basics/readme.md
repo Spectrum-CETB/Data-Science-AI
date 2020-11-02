@@ -7,5 +7,6 @@
 - Refer to the below video to understand how to work with google colab.
 [![](http://img.youtube.com/vi/i-HnvsehuSw/0.jpg)](http://www.youtube.com/watch?v=i-HnvsehuSw "Getting Started with Google CoLab | How to use Google Colab")
 
-- To start working on the Week_1_Assessment file, open the file and click on the "Open in Colab" button on the top of the file. This will automatically open the file in Google colab.
-- When done, rename the file as week1_yourName, e.g. - Week1_Suryansu, and then download and upload it on your forked repository, and create a pull request for the same. The file extension can be either .py or .pynb or .ipynb.
+- To start working on the Week_1_Assessment file, open the file and click on the "Open in Colab" button on the top of the file. This will automatically open the file in Google colab. 
+- Then click on "Copy to Drive" to create a local copy of this notebook file, which will be saved in your google drive automatically and let you edit and work on it.
+- When done with the task, rename the file as week1_yourName, e.g. - Week1_Suryansu, and then download and upload it on your forked repository, and create a pull request for the same. The file extension can be either .py or .pynb or .ipynb.
