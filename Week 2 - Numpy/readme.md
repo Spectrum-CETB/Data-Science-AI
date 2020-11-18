@@ -1,3 +1,3 @@
 
 - For learning numpy, your best resouce is google, and the art of googling is an art in itself.
-- Videos for the same will be uploaded soon.
+- Refer this video tutorial to learn numpy :- <a>https://youtu.be/QUT1VHiLmmI<a/>
